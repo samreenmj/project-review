@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+#main{
+background-color: #ccc;
+border-radius: 10px;
+}
+#title{
+    text-align: center;
+    padding-top: 30px;
+}
+#discp{
+    text-align: center;
+}
+#img-div{
+background-color: white;
+padding: 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+img{
+
+    max-width: 100%;
+}
+#image{
+
+    display: flex;
+   
+}
+#img-caption{
+    text-align: center;
+}
+#subtitle{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px o;
+    font-weight: 600;
+
+}
+#tribute-info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ul,#quote {
+    max-width: 550px;
+  
+}li{
+    margin: 20px;
+    text-align: justify;
+}
+#quote{
+    font-style: bold;
+    margin: 20px;
+    text-align: justify;
+    
+}
